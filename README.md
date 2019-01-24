@@ -2,12 +2,12 @@
 ... stiamo preparando il prossimo evento.
 ## Supporto
 Serve aiuto ? 
-- apri una nuova [issue da qui](https://github.com/hackapire/hackapire.github.io/issues/new)
-- vedi la lista delle issue
+  - chiedi come fare aprendo una nuova [issue da qui](https://github.com/hackapire/hackapire.github.io/issues/new)
+  - vedi la [lista comleta delle issues](https://github.com/hackapire/hackapire.github.io/issues?utf8=✓&q=)
 
 ## Contributi 
 Vuoi dare il tuo contributo ?
- vedi come [creare una pull request](https://help.github.com/articles/creating-a-pull-request/)
+  - vedi come [creare una pull request](https://help.github.com/articles/creating-a-pull-request/)
 
 ## Mock
 Vuoi provare con un mock ?
