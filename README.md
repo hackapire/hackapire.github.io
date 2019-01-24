@@ -3,7 +3,7 @@
 ## Supporto
 Serve aiuto ? 
   - chiedi come fare aprendo una nuova [issue da qui](https://github.com/hackapire/hackapire.github.io/issues/new)
-  - vedi la [lista comleta delle issues](https://github.com/hackapire/hackapire.github.io/issues?utf8=✓&q=)
+  - vedi la [lista completa delle issues](https://github.com/hackapire/hackapire.github.io/issues?utf8=✓&q=)
 
 ## Contributi 
 Vuoi dare il tuo contributo ?
