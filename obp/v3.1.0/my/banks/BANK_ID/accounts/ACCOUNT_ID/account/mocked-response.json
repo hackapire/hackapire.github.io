@@ -1,0 +1,25 @@
+{
+    "id": "conto-44c51a80-4877-4d6b-abc8-2befaa8d3624",
+    "bank_id": "hackaton-bank-1",
+    "label": "Label",
+    "number": "3047035405",
+    "owners": [
+        {
+            "id": "hackapire2",
+            "provider": "http://127.0.0.1:8080",
+            "display_name": "hackapire2"
+        }
+    ],
+    "type": "CURRENT",
+    "balance": {
+        "currency": "EUR",
+        "amount": "50024.00"
+    },
+    "account_routings": [
+        {
+            "scheme": "OBP",
+            "address": "UK123456"
+        }
+    ],
+    "account_rules": []
+}
