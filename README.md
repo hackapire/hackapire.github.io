@@ -13,7 +13,7 @@ Vuoi dare il tuo contributo ?
 Vuoi provare con un mock ?
 Se la sandbox è troppo complicata da usare
 Possiamo pubblicare mock per richieste in `GET` su specifiche **branches**  
-### Esempio di mock pubblicato nella brench: `mock-001`
+### Esempio di mock pubblicato nella branch: [mock-001](https://github.com/hackapire/hackapire.github.io/tree/mock-001)
 ``` bash
 $ curl https://raw.githubusercontent.com/hackapire/hackapire.github.io/mock-001/obp/v3.1.0/my/banks/BANK_ID/accounts/ACCOUNT_ID/account/mocked-response.json
 {
