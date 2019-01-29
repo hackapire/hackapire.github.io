@@ -1,4 +1,4 @@
-# intro alle API disponibile per hackapire
+# intro alle API disponibili per hackapire
 <!-- 
 - Read the documentation
 - Play with the sandbox
