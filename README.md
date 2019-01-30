@@ -30,6 +30,15 @@
 - [06.01 - **Create Account** - creazione di un nuovo conto](./tutorial/06-01-create-account.md)
 - [06.02 - **Get Views for Account** - controllo visibilità delle viste disponibili sul conto](./tutorial/06-02-bank-accounts-views.md)
 
+# Esercitazione Hackapire: 
+
+ - 1. Richiesta di transazione di 766 EUR da `"conto-44c51a.."` a `"conto-di-iron-man"`
+ - 2. Richiesta di transazione SEPA di 50 EUR da `"conto-di-iron-man"` a `"iban": "DE8937000440532013000"` ..che andranno su `"conto-44c51a.."` 
+ - 3. SEPA di 130 EUR da `"conto-44c51a.."` (user:`hackapire2`) a `"iban": "DE8937000440532013001"` ovvero al `"conto-di-ant-man"` (user:`hackapire4`) 
+
+
+[![video esercitazione](./asset/esercitazione-04.png)](https://youtu.be/mH8vKhoiMPo "esercitazione")
+
 
 ## Supporto
 Serve aiuto ? 
