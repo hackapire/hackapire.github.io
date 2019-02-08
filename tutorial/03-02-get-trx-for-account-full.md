@@ -1,6 +1,6 @@
 # 03 - Interrogare Saldi e Movimenti di conto 
 # 03.02 - Get Transaction For Account ( full )
-`GET` `:API_ENDPOINT/obp/v3.1.0/my/banks/:BANK_ID/accounts/:ACCOUNT_ID/:VIEW_ID/transactions`
+`GET` `:API_ENDPOINT/obp/v3.1.0/banks/:BANK_ID/accounts/:ACCOUNT_ID/:VIEW_ID/transactions`
 
 ##### Endpoint:
 - `:API_ENDPOINT` per le prove in locale `http://localhost:8080`
